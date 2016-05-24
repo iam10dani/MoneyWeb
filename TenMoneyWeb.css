@@ -1,0 +1,137 @@
+html{
+	    margin-left: 20px;
+		height: 100%;
+		width: 100%;
+}		
+body{
+    height: 800px;
+    width: 800px;
+}		
+div.header{
+	background-color:#1D2B58;
+	border-bottom:10px solid #FFCC00;
+    color:white;
+}
+h1.header{
+	background-color:#1D2B58;
+	font-family:Yu Gothic UI Semibold;
+	font-size:200%;
+}
+
+img.header-image{
+	width: 25px; 
+	height: 28px;
+	margin-top: 20px;
+}
+
+img.nav-image{
+	width: 15px; 
+	height: 15px;
+}
+
+img.FollowUs-Image{
+	width: 15px; 
+	height: 15px;
+}
+
+font-family:Arial Narrow;
+}
+
+div {
+width:auto;
+}
+
+div.items-images{
+  float: left;
+  margin-top: 25px;
+}
+
+div.content{
+  overflow: right-side;
+  width: 500px
+}
+
+span.owner{
+	color:grey;
+	margin-left:20px;
+	font-family:Yu Gothic UI Semibold;
+}
+
+h3.head{
+	font-size:18px;
+	margin-left:222px;
+	font-family:Yu Gothic UI Semibold;
+}
+
+h1.comment{
+	font-size:14px;
+	margin-left:225px;
+	font-family:Yu Gothic UI Semibold;
+}
+
+h1.read-more{
+	font-family:Yu Gothic UI Semibold;
+	font-size:11px;
+	margin-left:225px;
+}
+
+span.nav-section{
+	font-family:Yu Gothic UI Semibold;
+	color:grey;
+	font-size:11px
+}
+
+span.nav-menu{
+	font-family:Yu Gothic UI Semibold;
+}
+
+span.media{
+	font-family:Yu Gothic UI Semibold;
+	margin-left: 270px;
+	color:grey;
+}
+
+.body {
+    overflow: auto;
+}
+
+nav {
+    float: left;
+    width: 170px;
+	height: 1600px;
+    border-right:2px solid lightgrey;
+}
+
+section.items {
+    margin-left: 206px;
+    border: 3px solid white;
+	background-color:lightgrey
+}
+section {
+    margin-left: 206px;
+	
+}
+section.news {
+    margin-left: 210px;
+	color:white;
+	background-color:#1D2B58;
+	font-family:Yu Gothic UI Semibold;
+	width: 588px;
+}
+.footer{
+	background-color:#FFCC00;
+	border-top:6px solid #1D2B58;
+    color:white;
+}
+
+p.chris{
+	margin-bottom: 12px;
+	margin-top: 45px;
+	font-family:Yu Gothic UI Semibold;
+}
+
+u{
+	margin-left: 418px;
+}
+
+h2{font-size:10px; text-align:center; color:black;font-family:Yu Gothic UI Semibold;}
