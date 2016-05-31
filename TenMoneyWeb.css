@@ -40,6 +40,9 @@ img.FollowUs-Image{
 img.Up-down{
 	float: left;float: left;
 }
+img.priceFooter{
+	width: 100%; 
+}
 
 font-family:Arial Narrow;
 }
